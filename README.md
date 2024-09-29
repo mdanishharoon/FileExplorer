@@ -1,6 +1,6 @@
 # FileManager
 
-FileManager is a Java-based desktop application that provides an intuitive interface for managing files and directories. It allows users to navigate their filesystem effortlessly while performing various file operations. 
+FileManager is a Java-based desktop application that provides an intuitive interface for managing files and directories. It allows users to navigate their filesystem effortlessly while performing various file operations. This was developed in a couple of hours for my SDA homework task and therefore will be revised when I have the time :)
 
 ## Features
 
@@ -38,10 +38,4 @@ The application features a user-friendly GUI built with Java Swing. Key componen
    - **Delete**: Select an item, choose "Delete" from the menu, and confirm the action.
 4. **View Properties**: Select a file and choose "Properties" from the menu to view detailed information.
 
-## Conclusion
 
-FileManager simplifies file management tasks while ensuring a seamless user experience. Whether you need to navigate through directories or perform file operations, this application provides the tools necessary to efficiently manage your files.
-
----
-
-Feel free to explore the functionality and enhance your file management capabilities with FileManager!
